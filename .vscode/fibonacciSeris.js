@@ -15,5 +15,5 @@ function fibonacci(num) {
   }
 }
   var result=fibonacci(10)
-  // console.log(result)
- 
+  console.log(result)
+  
